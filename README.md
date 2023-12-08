@@ -1,4 +1,4 @@
-<h1 align:"center">🖐️ Hi, I’m @13thDiamond aka <strong>Diamond</strong></h1>
+<h1 align="center">🖐️ Hi, I’m @13thDiamond aka <strong>Diamond</strong></h1>
 
 ## About me:
 Age: 24
