@@ -1,7 +1,7 @@
 <h1 align="center">🖐️ Hi, I’m @13thDiamond aka <strong>Diamond</strong></h1>
 
 ## About me:
-- Age: 24
+- Age: 25
 - My favorite quote: Enjoy the small things in life!
 
 ## Interessts:
@@ -11,6 +11,7 @@
 
 ## Currently learning:
 - Python
+- JAVA
 - MySQL/ PostgreSQL
 <!---
 13thDiamond/13thDiamond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
