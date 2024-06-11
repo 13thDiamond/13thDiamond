@@ -2,7 +2,7 @@
 
 ## About me:
 - Age: 25
-- My favorite quote: Enjoy the small things in life!
+- My favorite quote: Enjoy the small things in life! (Rule 32: Enjoy the Little Things.... 🧟)
 
 ## Interessts:
 - Tech 🤖
@@ -13,6 +13,7 @@
 - Python
 - JAVA
 - MySQL/ PostgreSQL
+- Docker 
 <!---
 13thDiamond/13thDiamond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
