@@ -1,7 +1,7 @@
 <h1 align="center">🖐️ Hi, I’m @13thDiamond aka <strong>Diamond</strong></h1>
 
 ## About me:
-- Age: 26
+- Age: 27
 - My favorite quote: Enjoy the small things in life! (Rule 32: Enjoy the Little Things.... 🧟)
 
 ## Interessts:
