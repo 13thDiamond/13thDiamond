@@ -10,9 +10,8 @@
 - Cars 🏎️
 
 ## Currently learning:
-- Python
-- JAVA
-- MySQL/ PostgreSQL
+- Angular
+- Fundamentials of Web Apps
 
 <!---
 13thDiamond/13thDiamond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
